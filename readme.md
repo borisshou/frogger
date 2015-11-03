@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this Frogger game, user is a frog who aims to go from one side of a pond to another by landing on floating logs. The logs float on the pond in different directions. User avoids jumping into the pond or onto broken logs. Rubies will give additional lives so that the frog may die multiple times before losing the game. 
+In this Frogger game, the player is a frog who aims to go from one side of a pond to another by landing on floating logs. The logs float on the pond in different directions. The player avoids jumping into the pond or onto broken logs. Rubies will give additional lives so that the frog may die multiple times before the game is lost. 
 
 
 ## Instructions 
