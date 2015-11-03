@@ -8,8 +8,8 @@ In this Frogger game, user is a frog who aims to go from one side of a pond to a
 ## Instructions 
 
 1. Download all files.
-2. Compile `frogger.java` in the command line by `$ javac frogger.java`.
-3. Run the game by `$ java frogger`.
+2. Compile `Frogger.java` in the command line by `$ javac Frogger.java`.
+3. Run the game by `$ java Frogger`.
 
 
 ## Acknowledgements
