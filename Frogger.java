@@ -40,23 +40,23 @@ public class Frogger
   private boolean won = false;
 
   // All image file names - game elements
-  public static final String IMG_USER = "user.gif";
-  public static final String IMG_LOG = "log.gif";
-  public static final String IMG_USER_ON_LOG = "log_user.gif";
-  public static final String IMG_TILE = "tile.gif";
-  public static final String IMG_LOG_RUBY = "log_ruby.gif";
-  public static final String IMG_BROKEN_LOG = "avoid.gif";
-  public static final String IMG_DEAD = "dead.gif";
-  public static final String IMG_LOG_DEAD = "broken.gif";
+  public static final String IMG_USER = "images/user.gif";
+  public static final String IMG_LOG = "images/log.gif";
+  public static final String IMG_USER_ON_LOG = "images/log_user.gif";
+  public static final String IMG_TILE = "images/tile.gif";
+  public static final String IMG_LOG_RUBY = "images/log_ruby.gif";
+  public static final String IMG_BROKEN_LOG = "images/avoid.gif";
+  public static final String IMG_DEAD = "images/dead.gif";
+  public static final String IMG_LOG_DEAD = "imagesbroken.gif";
 
   // All image file names - other
-  public static final String IMG_BG = "bg.png";
+  public static final String IMG_BG = "images/bg.png";
   public static final String[] IMG_INSTRUCTIONS = {
-          "instr1.png",
-          "instr2.png",
-          "instr3.png",
-          "instr4.png",
-          "instr5.png"
+          "images/instr1.png",
+          "images/instr2.png",
+          "images/instr3.png",
+          "images/instr4.png",
+          "images/instr5.png"
   };
 
   // Constructors
