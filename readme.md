@@ -15,7 +15,7 @@ In this Frogger game, the player is a frog who aims to go from one side of a pon
 ## Acknowledgements
 
 - This is a class project completed for COSC 102: Intro to Computing II at Colgate University   
-- The starter files (`Cell.java`, `Color.java`, `Grid.java and `Location.java`) and some of the starter code in `Frogger.java` are provided by [Nifty Assignments - General Scrolling Game](http://nifty.stanford.edu/2011/feinberg-generic-scrolling-game/).
+- The starter files (`Cell.java`, `Color.java`, `Grid.java` and `Location.java`) and some of the starter code in `Frogger.java` are provided by [Nifty Assignments - General Scrolling Game](http://nifty.stanford.edu/2011/feinberg-generic-scrolling-game/).
 - `Splash.java` is a simplified version of the original file `Grid.java`. 
 - The tree trunk image was downloaded from gettyimages.com.au and modified.
 - The frog image was downloaded from all-free-download.com and modified.
