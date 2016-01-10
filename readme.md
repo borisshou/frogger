@@ -22,7 +22,7 @@ In this Frogger game, the player is a frog who aims to go from one side of a pon
 - The ruby image was downloaded from nipics.com and modified.
 - The red cross image was downloaded from iconfinder.com and modified.
 - The background image was downloaded from azukichi.net and modified.
-- Adobe Fireworks CS6 is used to create and process all 
+- Adobe Fireworks CS6 is used to create and process all images
 
 **Note: Frogger did a few improvements on the original Nifty scrolling game**
 - There are instructions being displayed before the game starts, and users press any key to continue reading the instructions. 
