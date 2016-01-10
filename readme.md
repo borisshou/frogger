@@ -2,14 +2,14 @@
 
 ## Introduction
 
-In this Frogger game, user is a frog who aims to go from one side of a pond to another by landing on floating logs. The logs float on the pond in different directions. User avoids jumping into the pond or onto broken logs. Rubies will give additional lives so that the frog may die multiple times before losing the game. 
+In this Frogger game, the player is a frog who aims to go from one side of a pond to another by landing on floating logs. The logs float on the pond in different directions. The player avoids jumping into the pond or onto broken logs. Rubies will give additional lives so that the frog may die multiple times before the game is lost. 
 
 
 ## Instructions 
 
 1. Download all files.
-2. Compile `frogger.java` in the command line by `$ javac frogger.java`.
-3. Run the game by `$ java frogger`.
+2. Compile `Frogger.java` in the command line by `$ javac Frogger.java`.
+3. Run the game by `$ java Frogger`.
 
 
 ## Acknowledgements
@@ -22,7 +22,7 @@ In this Frogger game, user is a frog who aims to go from one side of a pond to a
 - The ruby image was downloaded from nipics.com and modified.
 - The red cross image was downloaded from iconfinder.com and modified.
 - The background image was downloaded from azukichi.net and modified.
-- Adobe Fireworks CS6 is used to create and process all 
+- Adobe Fireworks CS6 is used to create and process all images
 
 **Note: Frogger did a few improvements on the original Nifty scrolling game**
 - There are instructions being displayed before the game starts, and users press any key to continue reading the instructions. 
